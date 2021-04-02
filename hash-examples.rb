@@ -6,7 +6,13 @@ car = {
 }
 
 animal = {
-  "Legs" => "Four"
-  "Fur" => "Fluffy"
-  "Tail" => "Yes"
+  "legs" => "Four"
+  "fur" => "Fluffy"
+  "tail" => "Yes"
+}
+
+customer = {
+  "age" = "old"
+  "attitude" = "crabby"
+  "tipper" = false
 }
